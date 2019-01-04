@@ -6,8 +6,6 @@
 
     <script type="text/processing" data-processing-target="processing-canvas">
 
-
-
 PImage kingdom;
 float zx1, zx2, zy1, zy2, px1, px2, py1, py2, cc, bX, bY, bW, bH;
 
